@@ -1,0 +1,11 @@
+target 'Demo' do
+  use_frameworks!
+
+  target 'DemoTests' do
+#    inherit! :search_paths
+
+    pod 'Quick'
+    pod 'Nimble'
+    pod 'Brisk', path: '../'
+  end
+end
