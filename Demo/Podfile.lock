@@ -1,23 +1,23 @@
 PODS:
-  - Brisk (0.0.1):
+  - Brisker (0.0.1):
     - Quick (~> 1.0)
   - Nimble (7.0.1)
   - Quick (1.1.0)
 
 DEPENDENCIES:
-  - Brisk (from `../`)
+  - Brisker (from `../`)
   - Nimble
   - Quick
 
 EXTERNAL SOURCES:
-  Brisk:
+  Brisker:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Brisk: 5d98ff5394296fa436a201fd8ce83f49f9a3599d
+  Brisker: 2ffe4e7002b564714150e8224f496da193831da4
   Nimble: 657d000e11df8aebe27cdaf9d244de7f30ed87f7
   Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
 
-PODFILE CHECKSUM: 08e639a791e10b6ad4c09c359635aa84a9993686
+PODFILE CHECKSUM: 7f61d9b4cd7ffd628173a144020c57d0701e32e8
 
 COCOAPODS: 1.2.1

@@ -1,9 +1,9 @@
-# Brisk
+# Brisker
 
 Ever wanted to write given-when-then tests with Quick? Say no more!
 
 ```swift
-class BriskTests: QuickSpec {
+class BriskerTests: QuickSpec {
     override func spec() {
 
         describe("adding to an even number") {

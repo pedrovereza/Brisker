@@ -1,8 +1,8 @@
 import Quick
 import Nimble
-import Brisk
+import Brisker
 
-class BriskTests: QuickSpec {
+class BriskerTests: QuickSpec {
     override func spec() {
 
         describe("adding to an even number") {
